@@ -1,2 +1,3 @@
-# sequence_record_parsing
-idk
+# Sequence Record Parsing
+
+Just a nextflow script that parses the `sample.fa` that my labmate keeps naming all his files.
