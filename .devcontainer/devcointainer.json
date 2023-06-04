@@ -1,0 +1,12 @@
+{
+    "name": "nf-to-flyte-dev-container",
+    "dockerFile": "Dockerfile",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+        "ms-python.python"
+    ],
+    "forwardPorts": [],
+    "postCreateCommand": "echo 'Welcome to your nextflow-to-flyte dev container!'"
+}
